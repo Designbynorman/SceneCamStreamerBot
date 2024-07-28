@@ -11,7 +11,7 @@ Szenen Wechsel mit Channelpoints - command StreamerBot Streamerdotbot
 
 Erstelle eine separate Szene in OBS zum Beispiel Cam. 
 
-
+![SB screenshot1]
 
 
 [DesignbyNorman on Twitch](https://www.twitch.tv/designbynorman)
