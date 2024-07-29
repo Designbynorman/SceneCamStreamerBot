@@ -2,7 +2,7 @@
 Szenen Wechsel mit Channelpoints - command StreamerBot Streamerdotbot
 
 In der Szene wird Quelle mit der Kamera angelegt. 
-OBS Studio benennt es derzeit Videoaufnahmegerät. Diese steht ganz oben, darunter legt man die die entsprechenden Szenen beispielsweise gaming an. Mit dem snippet wird es aktiviert und optional automatisch nach 10 Minuten (600.000 ms) in die vorherige Szene zurück gewechselt. Via angelegten command (!cam) kann man es auslösen ggf auch via channelpoint. 
+OBS Studio benennt es derzeit Videoaufnahmegerät. Diese steht ganz oben, darunter legt man die die entsprechenden Szenen beispielsweise gaming an. Mit dem snippet wird es aktiviert und optional automatisch nach 10 Minuten (600.000 ms) in die vorherige Szene zurück gewechselt. Via angelegten command (!cam) kann man es auslösen ggf auch via channelpoint. Beides muss aktiviert werden. 
 
 [DesignbyNorman Website](https://www.designbynorman.com/)
 
