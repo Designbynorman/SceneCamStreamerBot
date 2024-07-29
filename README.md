@@ -34,7 +34,7 @@ Enabled mit einem Hacken versehen!
 
 Der rote Text bedeutet deaktiviert!
 
-![cmd](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/chp1.png)
+![cmd](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/cmd0.png)
 
 Channelpoint anlegen 
 
