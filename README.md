@@ -1,6 +1,9 @@
 # SceneCamStreamerBot
 Szenen Wechsel mit Channelpoints - command StreamerBot Streamerdotbot
 
+In der Szene wird Quelle mit der Kamera angelegt. 
+
+
 [DesignbyNorman Website](https://www.designbynorman.com/)
 
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
