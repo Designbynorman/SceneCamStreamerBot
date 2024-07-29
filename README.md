@@ -8,6 +8,8 @@ OBS Studio benennt es derzeit Videoaufnahmegerät. Diese steht ganz oben, darunt
 
 Icons für die Channelpoints können derzeit nur über Twitch angelegt werden. 
 
+![Zeitstempel] (https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/CamChannelpoints.jpg)
+
 Snippet beinhaltet 
 
 1* Action 
