@@ -30,7 +30,7 @@ Enabled mit einem Hacken versehen!
 
 ![cmd](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/cmd.png)
 
-![cmd]()
+![cmd](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/cmd1.png)
 
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
 
