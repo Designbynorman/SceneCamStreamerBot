@@ -18,8 +18,6 @@ Snippet beinhaltet
 1* Command (nicht aktiv) 
 1* Channelpoint (nicht aktiv) 
 
-[DesignbyNorman Website](https://www.designbynorman.com/)
-
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
 
 ![Zeitstempel](
@@ -33,6 +31,7 @@ Erstelle eine separate Szene in OBS zum Beispiel Cam.
 
 ![SB screenshot1](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/cam1.png)
 
+[DesignbyNorman Website](https://www.designbynorman.com/)
 
 [DesignbyNorman on Twitch](https://www.twitch.tv/designbynorman)
 
