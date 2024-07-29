@@ -18,7 +18,13 @@ Snippet beinhaltet
 1* Command (nicht aktiv) 
 1* Channelpoint (nicht aktiv) 
 
+Erstelle eine separate Szene in OBS zum Beispiel Cam. 
+
+![SB screenshot1](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/cam1.png)
+
 ![Import](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/cam2.png)
+
+![action](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/Action.png)
 
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
 
@@ -28,10 +34,6 @@ https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/Zeitstempel.jpg)
 [Snippet](https://github.com/Designbynorman/Twitch-Channelpoint-Streamerbot-Video-Sound-Message/blob/main/snippet%20channelpoint)
 
 [Discord, falls ihr Fragen habt!](https://discord.gg/Gdt94HaFbM)
-
-Erstelle eine separate Szene in OBS zum Beispiel Cam. 
-
-![SB screenshot1](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/cam1.png)
 
 [DesignbyNorman Website](https://www.designbynorman.com/)
 
