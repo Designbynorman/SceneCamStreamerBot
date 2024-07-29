@@ -2,7 +2,7 @@
 Szenen Wechsel mit Channelpoints - command StreamerBot Streamerdotbot
 
 In der Szene wird Quelle mit der Kamera angelegt. 
-OBS Studio benennt es derzeit Videoaufnahmegerät. 
+OBS Studio benennt es derzeit Videoaufnahmegerät. Diese steht ganz oben, darunter legt man die die entsprechenden Szenen beispielsweise gaming an. 
 
 [DesignbyNorman Website](https://www.designbynorman.com/)
 
