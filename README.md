@@ -8,6 +8,14 @@ OBS Studio benennt es derzeit Videoaufnahmegerät. Diese steht ganz oben, darunt
 
 Icons für die Channelpoints können derzeit nur über Twitch angelegt werden. 
 
+Snippet beinhaltet 
+
+1* Action 
+2* Trigger 
+1* Sub-Action 
+1* Command (nicht aktiv) 
+1* Channelpoint (nicht aktiv) 
+
 [DesignbyNorman Website](https://www.designbynorman.com/)
 
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
