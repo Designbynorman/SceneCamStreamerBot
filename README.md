@@ -22,6 +22,9 @@ Snippet beinhaltet
 
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
 
+![Zeitstempel](
+https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/Zeitstempel.jpg) 
+
 [Snippet](https://github.com/Designbynorman/Twitch-Channelpoint-Streamerbot-Video-Sound-Message/blob/main/snippet%20channelpoint)
 
 [Discord, falls ihr Fragen habt!](https://discord.gg/Gdt94HaFbM)
