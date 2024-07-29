@@ -32,6 +32,10 @@ Enabled mit einem Hacken versehen!
 
 ![cmd](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/cmd1.png)
 
+Channelpoint anlegen 
+
+![chp](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/chp.png)
+
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
 
 ![Zeitstempel](
