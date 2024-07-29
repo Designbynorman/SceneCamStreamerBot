@@ -26,7 +26,11 @@ Erstelle eine separate Szene in OBS zum Beispiel Cam.
 
 ![action](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/Action.png)
 
+Enabled mit einem Hacken versehen!
+
 ![cmd](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/cmd.png)
+
+![cmd]()
 
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
 
