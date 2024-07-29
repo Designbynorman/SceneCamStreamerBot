@@ -18,7 +18,7 @@ Snippet beinhaltet
 1* Command (nicht aktiv) 
 1* Channelpoint (nicht aktiv) 
 
-![Import](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/CamChannelpoints.jpg)
+![Import](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/cam2.png)
 
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
 
