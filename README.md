@@ -36,6 +36,8 @@ Channelpoint anlegen
 
 ![chp](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/chp.png)
 
+![chp](https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/chp1.png)
+
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
 
 ![Zeitstempel](
