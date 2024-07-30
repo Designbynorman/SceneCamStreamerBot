@@ -1,7 +1,7 @@
 # SceneCamStreamerBot
 Szenen Wechsel mit Channelpoints - command StreamerBot Streamerdotbot
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W5Z38WJ)
+[![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/W7W5Z38WJ)
 
 Snippet für die Streamer.Bot Version 0.2.3 
 
